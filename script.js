@@ -8,8 +8,6 @@ const words = [
     "MERN Stack Developer",
     "AI/ML Enthusiast",
     "Computer Vision Researcher",
-    "Java Programmer",
-    "Full Stack Developer"
 ];
 
 let wordIndex = 0;
